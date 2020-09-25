@@ -63,26 +63,6 @@ class Agron:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 msg = '''
 \nWelcome to Agron!
 please Chose option:
