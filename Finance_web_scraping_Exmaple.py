@@ -17,7 +17,6 @@ class Finance:
         print("\nBye..")
         exit(0)
         
-
     def getParamValue(self,param):
         inputType = True if param.isalpha() else False
         if inputType:
@@ -48,7 +47,6 @@ class Finance:
             exit(3)
         print(f"\n{Colors.OKGREEN}Result: {result}{Colors.OKGREEN}")
         
-    
     def getAllParams(self):
         for i in range((len(self.indicat)-2)):
             self.getParamValue(self.indicat[i])
