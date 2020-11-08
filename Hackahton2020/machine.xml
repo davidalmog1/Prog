@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<machinelist>
+    <machine name="A">
+        <ip>192.168.8.1</ip>
+        <type>GW</type>
+        <user>admin</user>
+        <ps>zubur1</ps>
+    </machine>
+    <machine name="B">
+        <ip>192.168.8.2</ip>
+        <type>MDS</type>
+        <user>admin</user>
+        <ps>zubur1</ps>
+    </machine>
+    <machine name="C">
+        <ip>192.168.8.3</ip>
+        <type>MGMT</type>
+        <user>admin</user>
+        <ps>zubur1</ps>
+    </machine>
+    <machine name="D">
+        <ip>192.168.8.4</ip>
+        <type>SA</type>
+        <user>admin</user>
+        <ps>zubur1</ps>
+    </machine>
+    <machine name="E">
+        <ip>192.168.8.5</ip>
+        <type>GW</type>
+        <user>admin</user>
+        <ps>zubur1</ps>
+    </machine>
+</machinelist> 
